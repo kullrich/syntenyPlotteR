@@ -1,0 +1,9 @@
+pandoc: 3.1.11
+pkgdown: 2.1.1
+pkgdown_sha: ~
+articles:
+  syntenyPlotteR: syntenyPlotteR.html
+last_built: 2025-02-11T07:59Z
+urls:
+  reference: https://farre-lab.github.io/syntenyPlotteR/reference
+  article: https://farre-lab.github.io/syntenyPlotteR/articles
